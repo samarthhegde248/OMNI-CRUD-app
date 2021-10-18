@@ -1,0 +1,10 @@
+https://ancient-badlands-00569.herokuapp.com/
+
+
+GET https://ancient-badlands-00569.herokuapp.com/
+
+GET https://ancient-badlands-00569.herokuapp.com/1
+
+GET https://ancient-badlands-00569.herokuapp.com/1/show
+
+POST https://ancient-badlands-00569.herokuapp.com/
